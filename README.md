@@ -2,7 +2,7 @@
 ## Chat room
 - enter the server IP address
 - start to chat!
-![alt text](https://github.com/ya-sin/FingerGame.git/demo_chatroom.png)
+![alt text](https://github.com/ya-sin/FingerGame/demo_chatroom.png)
 ## Finger battle
 - click the finger to deliever the number to opponent
 ## Piano
