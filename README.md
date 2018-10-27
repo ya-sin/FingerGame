@@ -2,6 +2,7 @@
 ## Chat room
 - enter the server IP address
 - start to chat!
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 ## Finger battle
 - click the finger to deliever the number to opponent
 ## Piano
