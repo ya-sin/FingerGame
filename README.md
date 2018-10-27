@@ -1,4 +1,6 @@
 # FingerGame
+## Team
+@diyuan@newmi@emily
 ## Chat room
 - enter the server IP address
 - start to chat!
